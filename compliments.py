@@ -339,7 +339,8 @@ c.execute('''INSERT INTO compliments VALUES ("Your smile is contagious."),
 	("I like the way your nostrils are placed on your nose."),
 	("I would hold the elevator doors open for you if they were closing."),
 	("Your every thought and motion contributes to the beauty of the universe."),
-	("You make me want to frolic in a field.")''')
+	("You make me want to frolic in a field."),
+	("You're an absolute champion at what you do.")''')
 
 conn.commit()
 
