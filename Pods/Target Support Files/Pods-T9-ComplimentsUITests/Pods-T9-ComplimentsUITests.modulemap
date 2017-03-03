@@ -1,0 +1,6 @@
+framework module Pods_T9_ComplimentsUITests {
+  umbrella header "Pods-T9-ComplimentsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
